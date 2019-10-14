@@ -1,4 +1,3 @@
 language: crystal
-dist: trusty
 sudo: required
 before_script: bash .travis.setup.sh
